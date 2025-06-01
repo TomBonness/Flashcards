@@ -1,5 +1,5 @@
 📚 Flashcards App (Java CLI)
-A fully-featured command-line flashcards application written in Java. Designed to help users create, manage, and quiz themselves on custom flashcards, while tracking mistakes and progress over time.
+A fully-featured command-line flashcards application written in Java. Designed to help users create, manage, and quiz themselves on flashcards, while tracking mistakes and progress over time.
 
 ✨ Features
 Add and remove flashcards
@@ -19,14 +19,3 @@ Support for command-line arguments:
 -import filename — preload flashcards on startup
 
 -export filename — auto-save flashcards on exit
-
-🛠️ Tech
-Java 17
-
-HashMap + custom FlashCard class for storing data
-
-File I/O for persistence
-
-Command-line arguments for automation
-
-Robust logging system
